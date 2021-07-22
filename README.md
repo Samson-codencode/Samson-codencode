@@ -2,7 +2,7 @@
 - 👀 I'm interested in coding, developing and everything
 - 🌱 I’m currently learning Java, C#, ML..
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me thorugh my mail
+- 📫
 
 <!---
 Samson-codencode/Samson-codencode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
